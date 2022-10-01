@@ -7,41 +7,41 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6287760550924']  // isi jika perlu
+global.mods = ['6287760550924']   // isi jika perlu
+global.prems = ['6287760550924']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282xxxxxx'
+global.numberowner = '6287760550924' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '-' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6287752078797' // isi dengan nomor pulsa hp kalian
+global.gopay = '-'
 global.price1 = '1 bulan = 20.0000\n2 Minggu 60.000\n1 Minggu 56.000'
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝑴𝑫'
+global.gc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH'
+global.web = 'https://github.com/LeonOfc202' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© 𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ 𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝑴𝑫'
+global.wm3 = '© 𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝑴𝑫'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wait = '_*Tunggu Yah Syg Orang Sabar Pasti Kesel:v...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\n𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝑴𝑫'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
