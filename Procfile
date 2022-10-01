@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://Gilang:lavender@cluster0.jvrd2us.mongodb.net/?retryWrites=true&w=majority'
+worker: node . --db 'mongodb+srv://Gilang:Gilang@cluster0.d0nu1mi.mongodb.net/?retryWrites=true&w=majority'
