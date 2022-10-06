@@ -47,6 +47,7 @@ global.author = 'Bot WhatsApp\n𝐋𝐀𝐕𝐄𝐍𝐃𝐄𝐑𝑴𝑫'
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
+  xteam: 'https://api.xteam.xyz',
   bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -57,6 +58,7 @@ global.APIs = { // API Prefix
   nzcha: 'http://nzcha-apii.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   fdci: 'https://api.fdci.se',
+  ana: 'https://anabotofc.herokuapp.com/',
   dzx: 'https://api.dhamzxploit.my.id',
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
@@ -69,6 +71,8 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   males: 'https://malesin.xyz'
+  adiisus: 'https://adiixyzapi.herokuapp.com',
+  kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -83,6 +87,8 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
 }
 
 //Setting Rpg//
